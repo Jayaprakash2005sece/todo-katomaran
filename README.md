@@ -34,6 +34,14 @@ This is a full-stack Todo Task Management web application developed as part of t
 ---
 
 
+## 📹 Demo Video
+
+Watch this short Loom video where I demonstrate and explain the complete working of the app:  
+🎥https://www.loom.com/share/c301852a5a3b4d8da87d5cb9a0b1e551?sid=69f7319d-17c9-491f-bc36-e706cdb04480
+
+---
+
+
 
 ## 📂 Project Structure
 
